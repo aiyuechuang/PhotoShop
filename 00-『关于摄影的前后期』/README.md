@@ -14,14 +14,14 @@
 
 附图第一张是直接拍摄后的结果，第二张是后期处理后的结果，其余四张是局部放大，可以看到恢复的细节。
 
-![](图片/01.jpg)
+![](README.assets/01.jpg)
 
-![](图片/02.jpg)
+![](README.assets/02.jpg)
 
-![](图片/03.jpg)
+![](README.assets/03.jpg)
 
-![](图片/04.jpg)
+![](README.assets/04.jpg)
 
-![](图片/05.jpg)
+![](README.assets/05.jpg)
 
-![](图片/06.jpg)
+![](README.assets/06.jpg)
